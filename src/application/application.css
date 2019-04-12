@@ -1,0 +1,11 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+ .root {
+	-fx-background-image: url("http://wallpapercave.com/wp/Om3yOQJ.jpg");
+	/*-fx-background-color : #ffccff;*/
+	-fx-background-repeat: stretch;   
+    -fx-background-size: 1490 700;
+    /*-fx-background-position: center center;*/
+    /*-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);*/ 
+}
+
+

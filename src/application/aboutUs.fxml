@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea layoutY="6.0" prefHeight="400.0" prefWidth="600.0" text="We are three students &#10;from faculty of engineering&#10; Alexandria University:&#10;------------------------- &#10;1- Mahmoud Tarek &#10;2- Khalil Ismail &#10;3- Ahmed EL-Bawab&#10;-------------------------&#10;We have made this&#10;project as a digital&#10; assignment &#10;------------------------&#10;-Fell free to use it ^_^&#10;&#10;">
+         <font>
+            <Font name="Berlin Sans FB Demi Bold" size="22.0" />
+         </font></TextArea>
+   </children>
+</AnchorPane>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea editable="false" layoutY="6.0" prefHeight="400.0" prefWidth="600.0" text="1-This is a tabular&#10; method aidded &#10;application which helps &#10;you to find prime&#10; implicants from &#10;minterms you give to it&#10;2-You can start using &#10;by entering minterms &#10;with file formate &#10;or manual enter&#10;3-Step by Step  will be&#10;printed on the screen &#10;4- We use prime &#10;implicants chart&#10;and petric method for &#10;solving&#10;5-Fell free to use it ^_^">
+         <font>
+            <Font name="Berlin Sans FB Demi Bold" size="22.0" />
+         </font></TextArea>
+   </children>
+</AnchorPane>
